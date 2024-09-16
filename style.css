@@ -1,0 +1,19 @@
+
+.container {
+  
+    display: flex;
+    border: solid rgba(5, 4, 5, 0.733);
+    width: 500px;
+    flex-wrap: wrap;
+}
+
+.grid-divs {
+    box-sizing: border-box;
+    background-color: rgb(0, 197, 247);
+    border: 1px solid rgb(121, 109, 109);
+    
+}
+button {
+    margin-bottom: 50px;
+    
+}
